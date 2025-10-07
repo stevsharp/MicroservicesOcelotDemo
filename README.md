@@ -1,10 +1,5 @@
-Got you 👍 — the formatting breaks on GitHub because you pasted plain text instead of proper Markdown (missing backticks, table pipes, and spacing).
-
-Here’s the **fully corrected, cleanly formatted GitHub-ready `README.md`**.
-Just copy-paste it directly — no editing needed. It will render beautifully on GitHub.
 
 ---
-
 # 🧭 Microservices Gateway with Ocelot and Swagger (.NET 9)
 
 This solution demonstrates a simple **API Gateway** built with **Ocelot** that routes traffic to two downstream microservices:
