@@ -224,4 +224,3 @@ Feel free to use, modify, and share.
 💼 [LinkedIn](https://www.linkedin.com/in/spyros-ponaris-913a6937/)
 -------------------------------------------------------------------
 
-✅ Copy this text exactly as-is into your `README.md` — it will render perfectly on GitHub with headings, tables, and code blocks.
